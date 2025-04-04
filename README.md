@@ -2,7 +2,7 @@
 
 
 ## Overview
-<b>Improving Hierarchical Graph Pooling with Information Bottleneck</b>
+<b>Improving Hierarchical Graph Pooling with Information Bottleneck.</b>
 The main contributions of this paper are summarized as follows:
 
 - We propose a novel, information-theoretic principle termed "minimal sufficient coarsened graph," specifically designed for the generation of coarsened graphs. This principle theoretically guides a model to generate informative yet compressed coarsened graphs to enhance the model's expressiveness while minimizing information loss.
